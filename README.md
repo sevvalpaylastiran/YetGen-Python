@@ -1,2 +1,2 @@
-# YetGenpython
+# YetGenPython
 Core Python 
